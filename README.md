@@ -16,10 +16,3 @@ Nesta etapa, vamos priorizar as hipóteses usando os frameworks ICE e RICE. Vamo
 ## Passo 2: Análise de Teste A/B
 Na segunda parte, faremos uma análise detalhada dos resultados do teste A/B. Faremos gráficos de receita acumulada, tamanho médio do pedido, taxas de conversão e mais. Calcularemos a significância estatística das diferenças entre os grupos e tomaremos uma decisão com base nos resultados do teste.
 
-## Como Usar
-Para executar este projeto, você pode clonar este repositório e executar o código fornecido em um ambiente Jupyter Notebook.
-
-## Avaliação
-O projeto será avaliado com base na preparação e análise dos dados, priorização de hipóteses, interpretação dos gráficos resultantes, cálculo da significância estatística e conclusões tiradas com base nos resultados do teste A/B.
-
-Boa sorte!
